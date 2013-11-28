@@ -34,3 +34,9 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# OS X crap
+.DS_Store
+
+#PyCharm gumf
+.idea/
