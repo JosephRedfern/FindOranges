@@ -1,6 +1,4 @@
-TheresWally
+FindOranges
 ===========
 
-Find Wally with your Webcam... one day.
-
-For now, just some OpenCV-based tomfoolery! 
+A stupidly alpha version of some very old foolings around with Orange Tracking in OpenCV.... Here for archive purposes! 
